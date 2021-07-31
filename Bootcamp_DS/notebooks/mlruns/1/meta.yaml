@@ -1,0 +1,4 @@
+artifact_location: file:///home/samsepi0l/GitHub/Pythonzera/Bootcamp_DS/notebooks/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: exp_DS
