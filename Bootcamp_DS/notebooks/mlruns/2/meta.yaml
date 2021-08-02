@@ -1,0 +1,4 @@
+artifact_location: file:///home/samsepi0l/GitHub/data-is-beautiful/Bootcamp_DS/notebooks/mlruns/2
+experiment_id: '2'
+lifecycle_stage: active
+name: exp_datapipe
